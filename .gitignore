@@ -22,3 +22,10 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Çevresel değişken dosyaları (API anahtarlarını korumak için)
+.env
+.env.local
+.env.development
+.env.production
+.firebase/
